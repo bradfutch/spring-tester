@@ -1,0 +1,6 @@
+---
+applications:
+- name: spring-tester
+  memory: 1G
+  random-route: true
+  path: target/spring-tester-0.0.1-SNAPSHOT.jar
